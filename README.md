@@ -30,7 +30,7 @@ BackUp PRO — настольное приложение от ShineTech для �
 
 Последняя версия и история релизов:
 
-**https://github.com/shinetech-ru/st-backup-pro-releases/releases/latest**
+**https://github.com/shinetech-ru/backup-pro-releases/releases/latest**
 
 Установщик: **`STBackUpPro-win-Setup.exe`**. Он подписан самоподписанным сертификатом, поэтому Windows может показать предупреждение SmartScreen — это ожидаемо. После установки обновления приходят автоматически.
 
